@@ -11,6 +11,7 @@ const Contact = () => {
             <h3 className="text-lg font-semibold text-gray-700 mb-2">Our Factory Address</h3>
             <span className="break-normal text-gray-600">
               <address>
+                Kavin Fireworks Factory, <br/>
                 S.No 62/1, Kalankaperi,<br/>
                 Pattampudur Panchayat,<br/>
                 Virudhunagar Union and Taluk,<br/>
